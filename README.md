@@ -1,6 +1,6 @@
 # Aarav Modi – Resume
 
-📄 [View My Resume (PDF)](https://github.com/aaravhmodi/resume/raw/main/aarav_modi_resume.pdf)
+📄 [View My Resume (PDF)](https://github.com/aaravhmodi/resume/blob/main/Aarav_Resume.pdf)
 
 Hi, I'm Aarav Modi — a Systems Design Engineering student at the University of Waterloo passionate about software development, intelligent systems, and digital design. This repository hosts my up-to-date resume in PDF format.
 
